@@ -1,4 +1,4 @@
-Repetier2Omron
+Repetier 2 Omron Bridge V0.1 Beta
 ==============
 
 Repetier serial to Omron FINS ethernet communication
